@@ -1,2 +1,2 @@
 # kubdata
- Testing Persistant Volume Deployment
+ Testing Persistent Volume Deployment
